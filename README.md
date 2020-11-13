@@ -111,7 +111,7 @@ https://tensorboard.dev/experiment/qu1bQ0MiRGOCgqbZHQs2tA/#scalars
 
 |   Model                                |    F1    |    Loss    |  accuracy    |  precision  |  recall  |
 |:---------------------------------------|:--------:|:----------:|:------------:|:-----------:|:--------:|
-| enelpi/med-electra-small-discriminator |  0.8462  |   0.0545   |     0.9827   |    0.8052   |  0.8462  |
+| enelpi/med-electra-small-discriminator |  **0.8462**  |  **0.0545**   |     **0.9827**   |    **0.8052**   | **0.8462**  |
 | google/electra-small-discriminator     |  0.8294  |   0.0640   |     0.9806   |    0.7998   |  0.8614  |
 | google/electra-base-discriminator      |  0.8580  |   0.0675   |     0.9835   |    0.8446   |  0.8718  |
 | distilbert-base-uncased                |  0.8348  |   0.0832   |     0.9815   |    0.8126   |  0.8583  |
@@ -122,7 +122,7 @@ https://tensorboard.dev/experiment/qu1bQ0MiRGOCgqbZHQs2tA/#scalars
 
 |   Model                                |    F1    |    Loss    |  accuracy    |  precision  |  recall  |
 |:---------------------------------------|:--------:|:----------:|:------------:|:-----------:|:--------:|
-| enelpi/med-electra-small-discriminator |  0.8425  |   0.0545   |     0.9824   |    0.8028   |  0.8864  |
+| enelpi/med-electra-small-discriminator |  **0.8425**  |   **0.0545**   |     **0.9824**   |    **0.8028**   |  **0.8864**  |
 | google/electra-small-discriminator     |  0.8280  |   0.0642   |     0.9807   |    0.7961   |  0.8625  |
 | google/electra-base-discriminator      |  0.8648  |   0.0682   |     0.9838   |    0.8442   |  0.8864  |
 | distilbert-base-uncased                |  0.8373  |   0.0806   |     0.9814   |    0.8153   |  0.8604  |
@@ -133,7 +133,7 @@ https://tensorboard.dev/experiment/qu1bQ0MiRGOCgqbZHQs2tA/#scalars
 
 |   Model                                |    F1    |    Loss    |  accuracy    |  precision  |  recall  |
 |:---------------------------------------|:--------:|:----------:|:------------:|:-----------:|:--------:|
-| enelpi/med-electra-small-discriminator |  0.8463  |   0.0559   |     0.9823   |    0.8071   |  0.8895  |
+| enelpi/med-electra-small-discriminator |  **0.8463**  |  **0.0559**   |     **0.9823**   |    **0.8071**   |  **0.8895**  |
 | google/electra-small-discriminator     |  -       |   -        |     -        |    -        |  -       |
 | google/electra-base-discriminator      |  0.8542  |   0.0645   |     0.9840   |    0.8307   |  0.8791  |
 | distilbert-base-uncased                |  0.8424  |   0.0799   |     0.9822   |    0.8251   |  0.8604  |
